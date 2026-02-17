@@ -24,11 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Viet Nguyen" 
-  bio              : "Final-year CS student @ HUST. Research: Quantum ML, QEC, Mixture-of-Experts."
+  bio              : "Final-year CS student @ <a href='https://www.hust.edu.vn' target='_blank'>HUST</a>.."
   location         : "Hanoi, Vietnam"
-  employer         : "Hanoi University of Science and Technology (HUST)"
   uri              : "https://hsgsstudent.github.io"
-  email            : "mailto:nguyenhoangviet.hsgs@gmail.com" 
+  email            : "nguyenhoangviet.hsgs@gmail.com" 
 
   # Academic websites
   academia         : # URL
