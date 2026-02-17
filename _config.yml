@@ -22,7 +22,7 @@ repository               : "hsgsstudent/hsgsstudent.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/viet.jpeg"
+  avatar           : "viet.jpeg"
   name             : "Viet Nguyen" 
   bio              : "Final-year CS student @ <a href='https://www.hust.edu.vn' target='_blank'>HUST</a>."
   location         : "Hanoi, Vietnam"
