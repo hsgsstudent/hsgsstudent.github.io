@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Viet Nguyen" 
-  bio              : "Final-year CS student @ <a href='https://www.hust.edu.vn' target='_blank'>HUST</a>.."
+  bio              : "Final-year CS student @ <a href='https://www.hust.edu.vn' target='_blank'>HUST</a>."
   location         : "Hanoi, Vietnam"
-  uri              : "https://hsgsstudent.github.io"
+  # uri              : "https://hsgsstudent.github.io"
   email            : "nguyenhoangviet.hsgs@gmail.com" 
 
   # Academic websites
@@ -55,7 +55,7 @@ author:
   # Social media
   artstation       : # Username
   # bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/nguyenhoangvietchuyenkhtn/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/justviet/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
