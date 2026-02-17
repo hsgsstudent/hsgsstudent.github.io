@@ -20,21 +20,21 @@ Selected Preprints
 ======
 [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
 Under review <br/>
-*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\**, Alessandro Rinaldo\** *<br/>
+*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\**, Alessandro Rinaldo\***<br/>
 
 [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
 Under review <br/>
-*__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\**, Alessandro Rinaldo\** *<br/>
+*__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\**, Alessandro Rinaldo\***<br/>
 
 [A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
 Under review <br/>
-*__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee *<br/>
+*__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
 Selected Publications
 ======
 [Improved differential evolution for enhancing the aggregated channel estimation of RIS-aided cell-free massive MIMO](https://arxiv.org/abs/2507.10113) <br/>
 IEEE Transactions on Vehicular Technology <br/>
-*Trinh Van Chien, __Nguyen Hoang Viet__, Symeon Chatzinotas, Lajos Hanzo *<br/>
+*Trinh Van Chien, __Nguyen Hoang Viet__, Symeon Chatzinotas, Lajos Hanzo*<br/>
 
 
 
