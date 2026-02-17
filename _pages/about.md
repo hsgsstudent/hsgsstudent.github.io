@@ -20,11 +20,11 @@ Selected Preprints
 ======
 [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
 Under review <br/>
-*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\**, Alessandro Rinaldo\***<br/>
+*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\*<br/>
 
 [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
 Under review <br/>
-*__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\**, Alessandro Rinaldo\***<br/>
+*__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
 
 [A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
 Under review <br/>
