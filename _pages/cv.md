@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
---<u><a style="line-height: 1.5;"href="https://hsgsstudent.github.io/Viet_CV.pdf"><span style="color: #333333;"><span>Available here in PDF format.</span></span></a></u>
+<a href="https://hsgsstudent.github.io/Viet_CV.pdf" target="_blank">
+Available here in PDF format.
+</a>
