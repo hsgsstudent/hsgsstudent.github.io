@@ -16,7 +16,7 @@ redirect_from:
 ## Preprints
 **[P.3]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
 Under review <br/>
-*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\*<br/>
+*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
 
 **[P.2]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
 Under review <br/>
