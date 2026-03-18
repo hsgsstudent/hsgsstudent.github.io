@@ -27,6 +27,10 @@ Under review <br/>
 *__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
 ## Journal Publications
+**[J.2]** [Advanced Quantum Annealing for the Bi-Objective Traveling Thief Problem: An ε-Constraint-Based Approach](https://ieeexplore.ieee.org/document/11435401) <br/>
+*IEEE Transactions on Quantum Engineering, 2026* <br/>
+*__Viet Nguyen__, Nguyen Xuan Tung, Trinh Van Chien, Won-joo Hwang*<br/>
+
 **[J.1]** [Improved differential evolution for enhancing the aggregated channel estimation of RIS-aided cell-free massive MIMO](https://arxiv.org/abs/2507.10113) <br/>
 *IEEE Transactions on Vehicular Technology, 2025* <br/>
 *Trinh Van Chien, __Nguyen Hoang Viet__, Symeon Chatzinotas, Lajos Hanzo*<br/>
