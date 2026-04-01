@@ -14,17 +14,14 @@ redirect_from:
 
 
 ## Preprints
-**[P.3]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
+**[P.2]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
 Under review <br/>
 *Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
 
-**[P.2]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
+**[P.1]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
 Under review <br/>
 *__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
 
-**[P.1]** [A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
-Under review <br/>
-*__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
 ## Journal Publications
 **[J.2]** [Advanced Quantum Annealing for the Bi-Objective Traveling Thief Problem: An ε-Constraint-Based Approach](https://ieeexplore.ieee.org/document/11435401) <br/>
@@ -34,4 +31,10 @@ Under review <br/>
 **[J.1]** [Improved differential evolution for enhancing the aggregated channel estimation of RIS-aided cell-free massive MIMO](https://arxiv.org/abs/2507.10113) <br/>
 *IEEE Transactions on Vehicular Technology, 2025* <br/>
 *Trinh Van Chien, __Nguyen Hoang Viet__, Symeon Chatzinotas, Lajos Hanzo*<br/>
+
+## Conference Publications 
+
+**[C.1]** [A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
+*IEEE International Symposium on Information Theory (ISIT 2026)* <br/>
+*__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
