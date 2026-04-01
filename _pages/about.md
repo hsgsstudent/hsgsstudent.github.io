@@ -27,15 +27,15 @@ Under review <br/>
 Under review <br/>
 *__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
 
-[A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
-Under review <br/>
-*__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
-
 Selected Publications
 ======
 [Advanced Quantum Annealing for the Bi-Objective Traveling Thief Problem: An ε-Constraint-Based Approach](https://ieeexplore.ieee.org/document/11435401) <br/>
 IEEE Transactions on Quantum Engineering <br/>
 *__Viet Nguyen__, Nguyen Xuan Tung, Trinh Van Chien, Won-joo Hwang*<br/>
+
+[A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
+IEEE International Symposium on Information Theory (ISIT 2026) <br/>
+*__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
 [Improved differential evolution for enhancing the aggregated channel estimation of RIS-aided cell-free massive MIMO](https://arxiv.org/abs/2507.10113) <br/>
 IEEE Transactions on Vehicular Technology <br/>
