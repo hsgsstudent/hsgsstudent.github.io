@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 ---
 
-Welcome to my homepage! My name is Nguyen Hoang Viet, and I am currently a final-year Computer Science student at [Hanoi University of Science and Technology](https://hust.edu.vn). I am conducting research in quantum optimization and quantum machine learning under the supervision of Professor [Trinh Chien](https://sites.google.com/site/chientrinhvn). In addition, I am also interested in the interpretability of Mixture-of-Experts models, particularly the theoretical foundations of gating mechanisms and expert architectures, under the supervision of Professor [Nhat Ho](https://nhatptnk8912.github.io). 
+Welcome to my homepage! My name is Nguyen Hoang Viet, and I am currently a final-year Computer Science student at [Hanoi University of Science and Technology](https://hust.edu.vn). Currently, my research interests include statistical mixture models, especially parameter estimation rates and sparsity, under the supervision of Professor [Nhat Ho](https://nhatptnk8912.github.io). In addition, I am also interested in research on quantum optimization and quantum machine learning.
 
 Research Interests
 ======
