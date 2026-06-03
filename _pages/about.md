@@ -4,12 +4,12 @@ title: "Home"
 author_profile: true
 ---
 
-Welcome to my homepage! My name is Nguyen Hoang Viet, and I am currently a final-year Computer Science student at [Hanoi University of Science and Technology](https://hust.edu.vn). Currently, my research interests include statistical mixture models, especially parameter estimation rates and sparsity, under the supervision of Professor [Nhat Ho](https://nhatptnk8912.github.io). In addition, I am also interested in research on quantum optimization and quantum machine learning.
+Welcome to my homepage! My name is Nguyen Hoang Viet, and I am currently a final-year Computer Science student at [Hanoi University of Science and Technology](https://hust.edu.vn). Currently, my research interests include statistical mixture models, especially parameter estimation rates, under the supervision of Professor [Nhat Ho](https://nhatptnk8912.github.io). In addition, I am also interested in research on quantum optimization and quantum machine learning.
 
 Research Interests
 ======
 
-My research aims to develop a rigorous theoretical understanding of Mixture-of-Experts models, with a particular focus on the parameter estimation rates of both expert components and routing mechanisms. Beyond theory, I seek to bridge foundational insights with practical AI applications, not only in Mixture-of-Experts models but also in broader machine learning architectures.
+My research aims to develop a rigorous theoretical understanding of Mixture models, with a particular focus on the parameter estimation rates of both expert components and routing mechanisms. Beyond theory, I seek to bridge foundational insights with practical AI applications, not only in Mixture-of-Experts models but also in broader machine learning architectures.
 
 In parallel, I explore quantum optimization and quantum machine learning, where tools from mathematics, statistical learning, and quantum information theory intersect. 
 
@@ -37,9 +37,6 @@ IEEE Transactions on Quantum Engineering <br/>
 IEEE International Symposium on Information Theory (ISIT 2026) <br/>
 *__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
-[Improved differential evolution for enhancing the aggregated channel estimation of RIS-aided cell-free massive MIMO](https://arxiv.org/abs/2507.10113) <br/>
-IEEE Transactions on Vehicular Technology <br/>
-*Trinh Van Chien, __Viet Nguyen__, Symeon Chatzinotas, Lajos Hanzo*<br/>
 
 
 
