@@ -24,6 +24,11 @@ Under review <br/>
 
 
 ## Journal Publications
+
+**[J.3]** [Extending network lifespan and securing effective barrier coverage in 3D underwater wireless sensor networks](https://link.springer.com/article/10.1007/s10586-026-06113-w) <br/>
+*Cluster Computing, 2026* <br/>
+*Nguyen Thi My Binh, Le Duc Anh Vu, __Nguyen Hoang Viet__, Huynh Thi Thanh Binh, Ho Viet Duc Luong*<br/>
+
 **[J.2]** [Advanced Quantum Annealing for the Bi-Objective Traveling Thief Problem: An ε-Constraint-Based Approach](https://ieeexplore.ieee.org/document/11435401) <br/>
 *IEEE Transactions on Quantum Engineering, 2026* <br/>
 *__Viet Nguyen__, Nguyen Xuan Tung, Trinh Van Chien, Won-joo Hwang*<br/>
@@ -35,6 +40,6 @@ Under review <br/>
 ## Conference Publications 
 
 **[C.1]** [A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
-*IEEE International Symposium on Information Theory (ISIT 2026)* <br/>
+*IEEE International Symposium on Information Theory (ISIT) 2026* <br/>
 *__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
