@@ -29,7 +29,7 @@ Under review <br/>
 *Cluster Computing, 2026* <br/>
 *Nguyen Thi My Binh, Le Duc Anh Vu, __Nguyen Hoang Viet__, Huynh Thi Thanh Binh, Ho Viet Duc Luong*<br/>
 
-**[J.2]** [Advanced Quantum Annealing for the Bi-Objective Traveling Thief Problem: An ε-Constraint-Based Approach](https://ieeexplore.ieee.org/document/11435401) <br/>
+**[J.2]** [Advanced Quantum Annealing for the Bi-Objective Traveling Thief Problem: An ε-Constraint-Based Approach](https://arxiv.org/abs/2603.18038) <br/>
 *IEEE Transactions on Quantum Engineering, 2026* <br/>
 *__Viet Nguyen__, Nguyen Xuan Tung, Trinh Van Chien, Won-joo Hwang*<br/>
 
