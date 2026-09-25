@@ -50,10 +50,13 @@ News
 
 </div>
 
-<span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
+
 
 Selected Publications
 ======
+
+<span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
+
 [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
 Advances in NeurIPS 2026 <br/>
 *__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
