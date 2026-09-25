@@ -17,8 +17,18 @@ I’m actively seeking PhD positions in Statistics AI for the upcoming academic 
 
 News
 ======
-<div style="height: 100px; overflow-y: auto; margin-bottom: 1.3em;"
-     role="region" aria-labelledby="news" tabindex="0">
+<div style="
+       height: 150px;
+       overflow-y: auto;
+       border: 1px solid var(--global-border-color, #ccc);
+       border-radius: 8px;
+       padding: 12px 16px;
+       margin-bottom: 1.3em;
+       box-sizing: border-box;
+     "
+     role="region"
+     aria-labelledby="news"
+     tabindex="0">
 
   <p>
     [Sep 2026] I graduated from <a href="https://hust.edu.vn">Hanoi University of Science and Technology</a> with a degree in Computer Science (Talent Program), ranking among the top 1% of my cohort.
