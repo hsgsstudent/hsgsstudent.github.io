@@ -18,18 +18,17 @@ I’m actively seeking PhD positions in Statistics AI for the upcoming academic 
 News
 ======
 <div style="
-       height: 150px;
-       overflow-y: auto;
-       border: 1px solid var(--global-border-color, #ccc);
-       border-radius: 8px;
-       padding: 12px 16px;
+       height: 180px;
+       overflow-y: scroll;
+       direction: rtl;
+       scrollbar-gutter: stable;
        margin-bottom: 1.3em;
-       box-sizing: border-box;
      "
      role="region"
      aria-labelledby="news"
      tabindex="0">
 
+<div style="direction: ltr; text-align: left; padding-left: 12px;">
   <p>
     [Sep 2026] I graduated from <a href="https://hust.edu.vn">Hanoi University of Science and Technology</a> with a degree in Computer Science (Talent Program), ranking among the top 1% of my cohort.
   </p>
@@ -47,7 +46,7 @@ News
   <p>
     [Jan 2026] My paper <a href="https://arxiv.org/abs/2602.01468">A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding</a> was accepted to IEEE ISIT 2026.
   </p>
-
+</div>
 </div>
 
 
