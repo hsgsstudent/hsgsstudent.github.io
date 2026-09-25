@@ -12,17 +12,6 @@ redirect_from:
 
 **(\*) denotes equal contribution, (\**) denotes equal advising.** <br/>
 
-
-## Preprints
-**[P.2]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
-Under review <br/>
-*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
-
-**[P.1]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
-Under review <br/>
-*__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
-
-
 ## Journal Publications
 
 **[J.3]** [Extending network lifespan and securing effective barrier coverage in 3D underwater wireless sensor networks](https://link.springer.com/article/10.1007/s10586-026-06113-w) <br/>
@@ -39,7 +28,15 @@ Under review <br/>
 
 ## Conference Publications 
 
+**[C.2]** [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](https://arxiv.org/abs/2602.01468) <br/>
+Advances in NeurIPS 2026 <br/>
+*__Viet Nguyen__\*, Tuan Minh Pham\*, Thinh Cao\*, Tan Dinh, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
+
 **[C.1]** [A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
 *IEEE International Symposium on Information Theory (ISIT) 2026* <br/>
 *__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
 
+## Preprints
+**[P.1]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
+Under review <br/>
+*Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
