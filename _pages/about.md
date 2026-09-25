@@ -40,12 +40,12 @@ News
   </p>
 
   <p>
-    [March 2026] My paper
+    [Mar 2026] My paper
     <a href="https://arxiv.org/abs/2602.01468">Advanced Quantum Annealing for the Bi-Objective Traveling Thief Problem: An ε-Constraint-Based Approach</a> was accepted to IEEE Transactions on Quantum Engineering.
   </p>
 
   <p>
-    [March 2026] My paper <a href="https://arxiv.org/abs/2602.01468">A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding</a> was accepted to IEEE ISIT 2026.
+    [Jan 2026] My paper <a href="https://arxiv.org/abs/2602.01468">A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding</a> was accepted to IEEE ISIT 2026.
   </p>
 
 </div>
