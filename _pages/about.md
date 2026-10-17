@@ -29,6 +29,10 @@ News
      tabindex="0">
 
 <div style="direction: ltr; text-align: left; padding-left: 12px;">
+
+   <p>
+    [Oct 2026] My paper <a href="https://ieeexplore.ieee.org/document/11738791">Quantum Annealing for Resource Allocation in Next-Generation Wireless Communication Networks: A QUBO Modeling Guide</a> was accepted to IEEE Open Journal of the Communications Society. 
+  </p>
   <p>
     [Sep 2026] I graduated from <a href="https://hust.edu.vn">Hanoi University of Science and Technology</a> with a degree in Computer Science (Talent Program), ranking among the top 1% of my cohort.
   </p>
