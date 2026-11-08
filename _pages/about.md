@@ -74,8 +74,12 @@ IEEE International Symposium on Information Theory (ISIT 2026) <br/>
 
 Selected Preprints
 ======
+[Conservation Laws in Parameterized Quantum Circuits: Complete Characterizations and Rank Separation](https://openreview.net/forum?id=oki4NIsjDJ) <br/>
+Under review at ICLR 2027 <br/>
+*__Viet Nguyen__\*, Tung Dao\*, Hoang Ta, Nhat Ho, Tuan Quang Dam* <br/>
+
 [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
-Under review <br/>
+Under review at AISTATS 2027<br/>
 *Tuan Minh Pham\*, Thinh Cao\*, __Viet Nguyen__\*, Huy Nguyen, Nhat Ho\*\*, Alessandro Rinaldo\*\**<br/>
 
 
