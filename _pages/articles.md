@@ -33,6 +33,10 @@ redirect_from:
 
 ### II — Quantum Computing and Quantum Error Correction
 
+**[P.2]** [Conservation Laws in Parameterized Quantum Circuits: Complete Characterizations and Rank Separation](https://openreview.net/forum?id=oki4NIsjDJ) <br/>
+Under review at ICLR 2027 <br/>
+*__Viet Nguyen__\*, Tung Dao\*, Hoang Ta, Nhat Ho, Tuan Quang Dam* <br/>
+
 **[C.1]** [A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding](https://arxiv.org/abs/2601.12483) <br/>
 *IEEE International Symposium on Information Theory (ISIT) 2026* <br/>
 *__Viet Nguyen__, Manh Hung Nguyen, Hoang Ta, Van Khu Vu, Yeow Meng Chee*<br/>
@@ -91,6 +95,10 @@ redirect_from:
 *Trinh Van Chien, __Viet Nguyen__, Symeon Chatzinotas, Lajos Hanzo*<br/>
 
 ### Preprints
+
+**[P.2]** [Conservation Laws in Parameterized Quantum Circuits: Complete Characterizations and Rank Separation](https://openreview.net/forum?id=oki4NIsjDJ) <br/>
+Under review at ICLR 2027 <br/>
+*__Viet Nguyen__\*, Tung Dao\*, Hoang Ta, Nhat Ho, Tuan Quang Dam* <br/>
 
 **[P.1]** [Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function](https://arxiv.org/abs/2602.01466) <br/>
 *Under review* <br/>
